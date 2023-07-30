@@ -10,7 +10,7 @@ A simple way to create 3d point cloud with just 2 frames
 cd 3d_pointcloud
 python main.py data/ Cockatiel*.png -p
 ```
-After first run a file with out.ply name will save. Use [![Meshlab](https://www.meshlab.net/) to open it.
+After first run a file with out.ply name will save. Use [Link](https://www.meshlab.net/) to open it.
 
 
 ## Output
