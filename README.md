@@ -1,7 +1,7 @@
 # 3d_pointcloud
-Create a 3d point cloud with Horn Schunck algorithm
+Create a 3D points cloud with Horn Schunck algorithm
 
-A simple way to create 3d point cloud with just 2 frames
+A simple way to create 3D points cloud with just 2 frames
 
 ## Demo
 
